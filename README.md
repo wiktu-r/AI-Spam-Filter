@@ -11,10 +11,12 @@ The success of our project can be attributed to our collaborative efforts as a t
 ## How to run it?
 1. Download the repo
 2. Select Python interpreter
-3. Download all the necessary dependencies
+3. Use the included virtual environment folder or download all the necessary dependencies:
+```bash
 pip install numpy
 pip install pandas
 pip install nltk
 pip install scikit-learn
+```
 4. Run the program
 5. Be patient. It might take some time to run it since the dataset is big. After the running process is complete, you will get the results in terminal.
